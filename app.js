@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
-const API_KEY = '8d05bb78-6e18-44a9-a44b-3f37c3326480';
+const API_KEY = '66512b44-8939-4a82-aad3-6cd4ae4f6354';
 const API_URL = 'https://api-free.deepl.com/v2/translate';
 
 function deeplTranslate(text) {
